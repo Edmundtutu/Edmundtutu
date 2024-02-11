@@ -1,6 +1,6 @@
 👋 Hello, I'm Edmund Tutuma
 
-💻 Aspiring Software Engineer | Cloud Enthusiast | Web Developer
+💻 Aspiring Software Engineer | Cloud Enthusiast | Web Developer |Android Developer 
 
 🌱 Currently immersed in mastering the Laravel PHP framework while constantly exploring emerging trends in cloud computing and management.
 
